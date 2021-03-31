@@ -11,3 +11,4 @@ A:\C#\Figures\Figures\obj\Release\Figures.csproj.CoreCompileInputs.cache
 A:\C#\Figures\Figures\obj\Release\Figures.csproj.CopyComplete
 A:\C#\Figures\Figures\obj\Release\Figures.exe
 A:\C#\Figures\Figures\obj\Release\Figures.pdb
+A:\C#\Figures\Figures\obj\Release\Figures.csprojAssemblyReference.cache
